@@ -15,13 +15,13 @@ Welcome to the Zomato Dataset Analysis repository, where I've conducted a compre
 
    ```
 
-3. **Explore the Jupyter Notebook:**
+1. **Explore the Jupyter Notebook:**
    - Open the Jupyter Notebook `Zomato_Analysis.ipynb` to view the step-by-step analysis and code implementation.
 
-4. **Visualize the Insights:**
+2. **Visualize the Insights:**
    - Run the notebook cells to generate visualizations and gain insights from the Zomato dataset.
 
-5. **Contribute:**
+3. **Contribute:**
    - If you have suggestions, feature requests, or find any issues, feel free to contribute by creating a pull request or opening an issue.
 
 
